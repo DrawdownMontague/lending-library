@@ -3,13 +3,13 @@ if (typeof window.Sheetsee === 'undefined') window.Sheetsee = {}; window.Sheetse
 },{"lodash.assign":3,"sheetsee-charts":28,"sheetsee-core":31,"sheetsee-maps":32,"sheetsee-tables":59}],2:[function(require,module,exports){
 /*!
 ICanHaz.js version 0.10.2 -- by @HenrikJoreteg
-More info at: http://icanhazjs.com
+More info at: https://icanhazjs.com
 */
 (function () {
 /*
   mustache.js — Logic-less templates in JavaScript
 
-  See http://mustache.github.com/ for more info.
+  See https://mustache.github.com/ for more info.
 */
 
 var Mustache = function () {
